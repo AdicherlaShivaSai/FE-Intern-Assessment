@@ -7,7 +7,7 @@ The goal of this assignment is to demonstrate **design thinking, layout decision
 ---
 ## 🚀 Live Demo
 
-- **Live URL:** https://your-vercel-link.vercel.app
+- **Live URL:** https://fe-intern-assessment.vercel.app/
 
 ## 🔗 Reference Links
 
